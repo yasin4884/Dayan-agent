@@ -1,0 +1,2 @@
+2026-04-05 20:14:52,009 | INFO | Use pytorch device_name: cpu
+2026-04-05 20:14:52,009 | INFO | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
